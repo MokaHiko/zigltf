@@ -1,0 +1,7 @@
+zig-*/
+.zig-*/
+.vscode/
+.markdownlint.json
+
+# OS specific files
+.DS_Store
